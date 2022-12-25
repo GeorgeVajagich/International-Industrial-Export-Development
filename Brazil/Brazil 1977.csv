@@ -1,0 +1,109 @@
+"Category","Category ID","Section","Section ID","Trade Value","Year"
+"Machinery",10,"Chemicals and related products, n.e.s.",105,599000,1977
+"Machinery",10,"Manufactured goods classified chiefly by material",106,90861000,1977
+"Machinery",10,"Machinery and transport equipment",107,1101498000,1977
+"Machinery",10,"Miscellaneous manufactured articles",108,13204000,1977
+"Machinery",10,"Commodities and transactions not classified elsewhere in the SITC",109,2663000,1977
+"Electronics",11,"Manufactured goods classified chiefly by material",116,412000,1977
+"Electronics",11,"Machinery and transport equipment",117,341137000,1977
+"Electronics",11,"Miscellaneous manufactured articles",118,21220000,1977
+"Aircraft",12,"Manufactured goods classified chiefly by material",126,222000,1977
+"Aircraft",12,"Machinery and transport equipment",127,18060000,1977
+"Boilers",13,"Manufactured goods classified chiefly by material",136,11119000,1977
+"Boilers",13,"Machinery and transport equipment",137,4737000,1977
+"Boilers",13,"Miscellaneous manufactured articles",138,4359000,1977
+"Ships",14,"Chemicals and related products, n.e.s.",145,5533000,1977
+"Ships",14,"Machinery and transport equipment",147,26113000,1977
+"Metal products",15,"Crude materials, inedible, except fuels",152,2118000,1977
+"Metal products",15,"Chemicals and related products, n.e.s.",155,829000,1977
+"Metal products",15,"Manufactured goods classified chiefly by material",156,269970000,1977
+"Construction materials and equipment",20,"Crude materials, inedible, except fuels",202,134339000,1977
+"Construction materials and equipment",20,"Manufactured goods classified chiefly by material",206,208566000,1977
+"Construction materials and equipment",20,"Machinery and transport equipment",207,25284000,1977
+"Construction materials and equipment",20,"Miscellaneous manufactured articles",208,27262000,1977
+"Home and office products",21,"Manufactured goods classified chiefly by material",216,38519000,1977
+"Home and office products",21,"Machinery and transport equipment",217,7671000,1977
+"Home and office products",21,"Miscellaneous manufactured articles",218,4359000,1977
+"Pulp and paper",22,"Crude materials, inedible, except fuels",222,43193000,1977
+"Pulp and paper",22,"Chemicals and related products, n.e.s.",225,47000,1977
+"Pulp and paper",22,"Manufactured goods classified chiefly by material",226,19625000,1977
+"Beer, Spirits and cigarrettes",30,"Food and live animals chiefly for food",300,264000,1977
+"Beer, Spirits and cigarrettes",30,"Beverages and tobacco",301,8945000,1977
+"Beer, Spirits and cigarrettes",30,"Chemicals and related products, n.e.s.",305,17999000,1977
+"Food Processing",31,"Food and live animals chiefly for food",310,369887000,1977
+"Food Processing",31,"Beverages and tobacco",311,1071000,1977
+"Food Processing",31,"Crude materials, inedible, except fuels",312,5000,1977
+"Food Processing",31,"Animal and vegetable oils, fats and waxes",314,2401000,1977
+"Food Processing",31,"Manufactured goods classified chiefly by material",316,1048000,1977
+"Petrochemicals",40,"Crude materials, inedible, except fuels",402,7000,1977
+"Petrochemicals",40,"Manufactured goods classified chiefly by material",406,1618000,1977
+"Inorganic salts and acids",41,"Crude materials, inedible, except fuels",412,3000,1977
+"Inorganic salts and acids",41,"Chemicals and related products, n.e.s.",415,6519000,1977
+"Other Chemicals",42,"Food and live animals chiefly for food",420,10002000,1977
+"Other Chemicals",42,"Crude materials, inedible, except fuels",422,3000,1977
+"Other Chemicals",42,"Mineral fuels, lubricants and related materials",423,336000,1977
+"Other Chemicals",42,"Chemicals and related products, n.e.s.",425,23319000,1977
+"Other Chemicals",42,"Manufactured goods classified chiefly by material",426,7493000,1977
+"Other Chemicals",42,"Miscellaneous manufactured articles",428,11110000,1977
+"Agrochemicals",43,"Food and live animals chiefly for food",430,382018000,1977
+"Agrochemicals",43,"Crude materials, inedible, except fuels",432,19000,1977
+"Agrochemicals",43,"Mineral fuels, lubricants and related materials",433,167000,1977
+"Agrochemicals",43,"Chemicals and related products, n.e.s.",435,1841000,1977
+"Chemicals and health related products",44,"Crude materials, inedible, except fuels",442,1653000,1977
+"Chemicals and health related products",44,"Mineral fuels, lubricants and related materials",443,6259000,1977
+"Chemicals and health related products",44,"Chemicals and related products, n.e.s.",445,98433000,1977
+"Chemicals and health related products",44,"Manufactured goods classified chiefly by material",446,36338000,1977
+"Chemicals and health related products",44,"Machinery and transport equipment",447,774000,1977
+"Chemicals and health related products",44,"Miscellaneous manufactured articles",448,26193000,1977
+"Coal",50,"Mineral fuels, lubricants and related materials",503,12000,1977
+"Mining",51,"Crude materials, inedible, except fuels",512,1603823000,1977
+"Mining",51,"Chemicals and related products, n.e.s.",515,3458000,1977
+"Mining",51,"Manufactured goods classified chiefly by material",516,1520000,1977
+"Mining",51,"Miscellaneous manufactured articles",518,7346000,1977
+"Oil",52,"Mineral fuels, lubricants and related materials",523,67515000,1977
+"Precious Stones",54,"Crude materials, inedible, except fuels",542,234000,1977
+"Precious Stones",54,"Manufactured goods classified chiefly by material",546,58312000,1977
+"Processed minerals",57,"Crude materials, inedible, except fuels",572,27249000,1977
+"Processed minerals",57,"Manufactured goods classified chiefly by material",576,9087000,1977
+"Textile & Fabrics",60,"Crude materials, inedible, except fuels",602,23136000,1977
+"Textile & Fabrics",60,"Manufactured goods classified chiefly by material",606,325135000,1977
+"Garments",61,"Crude materials, inedible, except fuels",612,2126000,1977
+"Garments",61,"Manufactured goods classified chiefly by material",616,130076000,1977
+"Garments",61,"Miscellaneous manufactured articles",618,349474000,1977
+"Cereals and vegetable oils",70,"Food and live animals chiefly for food",700,1347104000,1977
+"Cereals and vegetable oils",70,"Crude materials, inedible, except fuels",702,899971000,1977
+"Cereals and vegetable oils",70,"Animal and vegetable oils, fats and waxes",704,367404000,1977
+"Cereals and vegetable oils",70,"Chemicals and related products, n.e.s.",705,27994000,1977
+"Cotton, rice, soy beans and others",71,"Food and live animals chiefly for food",710,185836000,1977
+"Cotton, rice, soy beans and others",71,"Crude materials, inedible, except fuels",712,120397000,1977
+"Cotton, rice, soy beans and others",71,"Animal and vegetable oils, fats and waxes",714,3282000,1977
+"Cotton, rice, soy beans and others",71,"Manufactured goods classified chiefly by material",716,4007000,1977
+"Tropical treecrops and flowers",72,"Food and live animals chiefly for food",720,838387000,1977
+"Tropical treecrops and flowers",72,"Crude materials, inedible, except fuels",722,15874000,1977
+"Tropical treecrops and flowers",72,"Animal and vegetable oils, fats and waxes",724,29878000,1977
+"Tobacco",73,"Beverages and tobacco",731,258799000,1977
+"Fruit",74,"Food and live animals chiefly for food",740,15688000,1977
+"Misc Agriculture",75,"Food and live animals chiefly for food",750,3369799000,1977
+"Misc Agriculture",75,"Crude materials, inedible, except fuels",752,6866000,1977
+"Fish & Seafood",80,"Food and live animals chiefly for food",800,105728000,1977
+"Fish & Seafood",80,"Crude materials, inedible, except fuels",802,6795000,1977
+"Fish & Seafood",80,"Animal and vegetable oils, fats and waxes",804,98000,1977
+"Meat and eggs",81,"Food and live animals chiefly for food",810,263368000,1977
+"Meat and eggs",81,"Animal and vegetable oils, fats and waxes",814,32000,1977
+"Meat and eggs",81,"Manufactured goods classified chiefly by material",816,9333000,1977
+"Meat and eggs",81,"Miscellaneous manufactured articles",818,201000,1977
+"Animal Fibers",82,"Crude materials, inedible, except fuels",822,18825000,1977
+"Animal Fibers",82,"Manufactured goods classified chiefly by material",826,50476000,1977
+"Milk & cheese",83,"Food and live animals chiefly for food",830,96000,1977
+"Milk & cheese",83,"Crude materials, inedible, except fuels",832,7450000,1977
+"Milk & cheese",83,"Chemicals and related products, n.e.s.",835,4653000,1977
+"Leather",84,"Crude materials, inedible, except fuels",842,32835000,1977
+"Leather",84,"Manufactured goods classified chiefly by material",846,116730000,1977
+"Not classified",90,"Crude materials, inedible, except fuels",902,802000,1977
+"Not classified",90,"Mineral fuels, lubricants and related materials",903,55000,1977
+"Not classified",90,"Chemicals and related products, n.e.s.",905,1711000,1977
+"Not classified",90,"Manufactured goods classified chiefly by material",906,9495000,1977
+"Not classified",90,"Machinery and transport equipment",907,5179000,1977
+"Not classified",90,"Miscellaneous manufactured articles",908,6494000,1977
+"Not classified",90,"Commodities and transactions not classified elsewhere in the SITC",909,133838000,1977
+"Unspecified",99,"Food and live animals chiefly for food",990,1916000,1977
